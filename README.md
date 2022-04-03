@@ -93,7 +93,7 @@ height="26px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c
 
 <img align="left" alt="Digital Ocean" width="100px" height="26px" src="https://images.prismic.io/www-static/49aa0a09-06d2-4bba-ad20-4bcbe56ac507_logo.png?auto=compress,format"/>
 
-<img align="left" alt="Heroku" width="26px" height="26px" src="https://image.flaticon.com/icons/png/128/873/873120.png"/>
+<img align="left" alt="Heroku" width="100px" height="26px" src="https://static.javatpoint.com/blog/images/what-is-heroku-used-for1.png"/>
 
 <br />
 <br />
