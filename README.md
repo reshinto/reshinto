@@ -64,11 +64,11 @@ height="26px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c
 
 <img align="left" alt="Flask" width="26px" height="26px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png"/>
 
-<img align="left" alt="Django" width="26px" height="26px" src="https://i0.wp.com/securityaffairs.co/wordpress/wp-content/uploads/2022/07/django-logo-negative.png?w=1200&ssl=1"/>
+<img align="left" alt="Django" width="100px" height="26px" src="https://i0.wp.com/securityaffairs.co/wordpress/wp-content/uploads/2022/07/django-logo-negative.png?w=1200&ssl=1"/>
 
 <img align="left" alt="FastAPI" width="100px" height="26px" src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"/>
 
-<img align="left" alt="Spring" width="26px" height="26px" src="https://lilly021.com/wp-content/uploads/2019/07/springBoot_featured_image-1024x549.png"/>
+<img align="left" alt="Spring" width="100px" height="26px" src="https://lilly021.com/wp-content/uploads/2019/07/springBoot_featured_image-1024x549.png"/>
 
 <img align="left" alt="Ruby on Rails" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"/>
 
@@ -99,7 +99,7 @@ height="26px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c
 
 <img align="left" alt="Heroku" width="100px" height="26px" src="https://static.javatpoint.com/blog/images/what-is-heroku-used-for1.png"/>
 
-<img align="left" alt="Pivotal Cloud Foundry" width="100px" height="26px" src="https://www.axonius.com/hs-fs/hubfs/Adapter%20Logos/pivotal_cloud_foundry_adapter.png?length=600&name=pivotal_cloud_foundry_adapter.png"/>
+<img align="left" alt="Pivotal Cloud Foundry" width="100px" height="40px" src="https://www.axonius.com/hs-fs/hubfs/Adapter%20Logos/pivotal_cloud_foundry_adapter.png?length=600&name=pivotal_cloud_foundry_adapter.png"/>
 
 <br />
 <br />
@@ -108,7 +108,7 @@ height="26px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c
 
 <img align="left" alt="Mac" width="26px" height="26px" src="https://cdn.osxdaily.com/wp-content/uploads/2013/07/apple-logo.gif"/>
 
-<img align="left" alt="Linux" width="26px" height="26px" src="https://www.pikpng.com/pngl/m/201-2013314_linux-logo-png-linux-penguin-clipart.png"/>
+<img align="left" alt="Linux" width="40px" height="26px" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo.png"/>
 
 <img align="left" alt="Window" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png"/>
 
