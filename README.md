@@ -99,6 +99,8 @@ height="26px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c
 
 <img align="left" alt="Heroku" width="100px" height="26px" src="https://static.javatpoint.com/blog/images/what-is-heroku-used-for1.png"/>
 
+<img align="left" alt="Pivotal Cloud Foundry" width="100px" height="26px" src="https://www.axonius.com/hs-fs/hubfs/Adapter%20Logos/pivotal_cloud_foundry_adapter.png?length=600&name=pivotal_cloud_foundry_adapter.png"/>
+
 <br />
 <br />
 
