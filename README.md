@@ -58,6 +58,8 @@ height="26px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c
 
 <img align="left" alt="React" width="60px" height="26px" src="https://onextrapixel.com/wp-content/uploads/2016/04/reactjs-thumb.jpg"/>
 
+<img align="left" alt="Angular" width="60px" height="26px" src="https://repository-images.githubusercontent.com/24195339/87018c00-694b-11e9-8b5f-c34826306d36"/>
+
 <img align="left" alt="ExpressJS" width="100px" height="26px" src="https://4thpointer.com/wp-content/uploads/2020/12/ExpressJS.png"/>
 
 <img align="left" alt="Flask" width="26px" height="26px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png"/>
@@ -65,6 +67,8 @@ height="26px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c
 <img align="left" alt="Django" width="26px" height="26px" src="https://i0.wp.com/securityaffairs.co/wordpress/wp-content/uploads/2022/07/django-logo-negative.png?w=1200&ssl=1"/>
 
 <img align="left" alt="FastAPI" width="100px" height="26px" src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"/>
+
+<img align="left" alt="Spring" width="26px" height="26px" src="https://lilly021.com/wp-content/uploads/2019/07/springBoot_featured_image-1024x549.png"/>
 
 <img align="left" alt="Ruby on Rails" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"/>
 
