@@ -68,8 +68,6 @@ height="26px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c
 
 <img align="left" alt="FastAPI" width="100px" height="26px" src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"/>
 
-<img align="left" alt="Spring" width="100px" height="26px" src="https://lilly021.com/wp-content/uploads/2019/07/springBoot_featured_image-1024x549.png"/>
-
 <img align="left" alt="Ruby on Rails" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"/>
 
 <img align="left" alt="JWT" width="50px" height="26px" src="https://jwt.io/img/logo-asset.svg"/>
@@ -81,6 +79,8 @@ height="26px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c
 <img align="left" alt="YARN" width="26px" height="26px" src="https://img.favpng.com/2/23/1/npm-package-manager-node-js-installation-yarn-png-favpng-NYBU42gbjqnyS9RRYTbE8AuZD.jpg"/>
 
 <img align="left" alt="CONDA" width="26px" height="26px" src="https://4.bp.blogspot.com/-KS2kwdfxb_E/WJMPYvm6ZSI/AAAAAAAABO8/GevHcywhONUQDxsksFk5IysSl0Ub9Uv_ACLcB/s1600/anaconda-symbol.svg.png"/>
+
+<img align="left" alt="ElasticSearch" width="100px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg"/>
 
 <br />
 <br />
@@ -100,6 +100,8 @@ height="26px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c
 <img align="left" alt="Heroku" width="100px" height="26px" src="https://static.javatpoint.com/blog/images/what-is-heroku-used-for1.png"/>
 
 <img align="left" alt="Pivotal Cloud Foundry" width="100px" height="40px" src="https://www.axonius.com/hs-fs/hubfs/Adapter%20Logos/pivotal_cloud_foundry_adapter.png?length=600&name=pivotal_cloud_foundry_adapter.png"/>
+
+<img align="left" alt="Amazon Web Services" width="100px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"/>
 
 <br />
 <br />
