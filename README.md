@@ -121,5 +121,4 @@ height="26px" src="https://camo.githubusercontent.com/ec0079d7b416a8b69536d6ca8c
 
 ## Statistics
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=reshinto&layout=compact&langs_count=10&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&custom_title=reshinto's+GitHub+Stats)
 ![My Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reshinto&layout=compact&langs_count=10&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
