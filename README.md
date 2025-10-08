@@ -1,6 +1,10 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1F1C2C,100:928DAB&height=250&section=header&text=Reshinto&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:0f172a,100:1f2937&fontColor=ffffff&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:f5f7fa,100:c3cfe2&fontColor=0f172a&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18">
+    <img alt="Terence Kong banner" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:f5f7fa,100:c3cfe2&fontColor=0f172a&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18" />
+  </picture>
 </p>
 
 <p align="center">
