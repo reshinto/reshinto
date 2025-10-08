@@ -1,12 +1,23 @@
 <!-- PROFILE HEADER -->
 <p align="center">
   <picture>
-    <!-- Dark mode -->
+<!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:0f172a,100:1f2937&fontColor=ffffff&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18#gh-dark-mode-only">
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:f5f7fa,100:c3cfe2&fontColor=0f172a&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18#gh-light-mode-only">
     <!-- Fallback (for renderers that don't support <picture>) -->
-    <img alt="Typing animation" src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=1F1C2C&center=true&vCenter=true&width=800&lines=Self-taught+Software+Engineer;Everything+that+can+be+automated%2C+must+be+automated;AI+Research+%26+Applied+Automation;TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20Rust%20%E2%80%A2%20AWS%20%E2%80%A2%20Elasticsearch](https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:f5f7fa,100:c3cfe2&fontColor=0f172a&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18#gh-light-mode-only)" />
+    <img alt="Typing animation" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:0f172a,100:1f2937&fontColor=ffffff&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18#gh-dark-mode-only" />
+  </picture>
+</p>
+
+
+
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:0f172a,100:1f2937&fontColor=ffffff&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18">
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:f5f7fa,100:c3cfe2&fontColor=0f172a&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18">
+    <!-- Fallback (for renderers that don't support <picture>) -->
+    <img alt="Typing animation" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:0f172a,100:1f2937&fontColor=ffffff&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18" />
   </picture>
 </p>
 
