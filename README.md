@@ -34,7 +34,7 @@
 - 🌍  I'm based in ![Timezone](https://img.shields.io/badge/timezone-Asia%2FSingapore-%230089ff?style=flat)
 - 🌐 Check out my [**Personal Website**](https://www.terencekong.net)  
 - 🤝  I'm looking to collaborate on Interesting projects
-- ⚡  Feel free to reach out via LinkedIn or [**Leave a message**](https://github.com/reshinto/reshinto/issues/new?title=Guestbook%20entry&labels=guestbook&body=Write%20your%20message%20here%20%E2%9C%8C%EF%B8%8F)
+- ⚡  Feel free to reach out via [**LinkedIn**](https://www.linkedin.com/in/terence-kong) or [**Leave a message**](https://github.com/reshinto/reshinto/issues/new?title=Guestbook%20entry&labels=guestbook&body=Write%20your%20message%20here%20%E2%9C%8C%EF%B8%8F)
 
 ## 🧰 Tech Stack
 
