@@ -25,10 +25,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🚀 I’m a **self-taught Software Engineer** passionate about automation, system design, and scalable backend architectures.  
 - 🤖 I **research and develop AI** as a hobby — integrating intelligence into everyday workflows. 
 - 🧩 I believe in building things that **save time, reduce friction, and scale seamlessly**.  
-- 🌍  I'm based in Singapore
+- 🌍  I'm based in ![Timezone](https://img.shields.io/badge/timezone-Asia%2FSingapore-%230089ff?style=flat)
 - 🌐 Check out my [**personal website**](https://www.terencekong.net)  
 - 🤝  I'm looking to collaborate on Interesting projects
-- ⚡  Feel free to reach out via LinkedIn
+- ⚡  Feel free to reach out via LinkedIn or [**Leave a message**](https://github.com/reshinto/reshinto/issues/new?title=Guestbook%20entry&labels=guestbook&body=Write%20your%20message%20here%20%E2%9C%8C%EF%B8%8F)
 
 ## 🧠 Languages
 
@@ -108,6 +108,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.github.com/reshinto" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/reshinto?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
 
+![Profile views](https://komarev.com/ghpvc/?username=reshinto&label=Profile%20views&color=0e75b6&style=flat)
+
 ## My GitHub Stats
 
 <p align="center">
@@ -119,12 +121,22 @@ src="https://img.shields.io/github/followers/reshinto?logo=github&style=for-the-
   <img src="https://streak-stats.demolab.com?user=reshinto&theme=radical&hide_border=true" width="70%"/>
 </p>
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reshinto&theme=react-dark&hide_border=true)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/reshinto/reshinto/output/snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ## Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/reshinto/online_trading_platform" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reshinto&repo=online_trading_platform&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/reshinto/programming_language_syntax_comparison" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reshinto&repo=programming_language_syntax_comparison&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/reshinto/online_trading_platform" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reshinto&repo=online_trading_platform&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/reshinto/programming_language_syntax_comparison" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reshinto&repo=programming_language_syntax_comparison&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" />
+  </a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/reshinto/hft_notes" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reshinto&repo=hft_notes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/reshinto/Basic_technologies_revision" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reshinto&repo=Basic_technologies_revision&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div>
