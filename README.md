@@ -19,18 +19,26 @@
   <i>"Everything that can be automated, must be automated."</i>
 </p>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Terence Kong
-=====================================================================================================================================
+<!-- Quick links -->
+<p align="center">
+  <a href="https://www.terencekong.net"><img alt="Website" src="https://img.shields.io/badge/website-terencekong.net-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/reshinto"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-reshinto-111827?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/terence-kong"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Terence%20Kong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+## 🧑🏻‍💻 About
 
 - 🚀 I’m a **self-taught Software Engineer** passionate about automation, system design, and scalable backend architectures.  
 - 🤖 I **research and develop AI** as a hobby — integrating intelligence into everyday workflows. 
 - 🧩 I believe in building things that **save time, reduce friction, and scale seamlessly**.  
 - 🌍  I'm based in ![Timezone](https://img.shields.io/badge/timezone-Asia%2FSingapore-%230089ff?style=flat)
-- 🌐 Check out my [**personal website**](https://www.terencekong.net)  
+- 🌐 Check out my [**Personal Website**](https://www.terencekong.net)  
 - 🤝  I'm looking to collaborate on Interesting projects
 - ⚡  Feel free to reach out via LinkedIn or [**Leave a message**](https://github.com/reshinto/reshinto/issues/new?title=Guestbook%20entry&labels=guestbook&body=Write%20your%20message%20here%20%E2%9C%8C%EF%B8%8F)
 
-## 🧠 Languages
+## 🧰 Tech Stack
+
+### 🧠 Languages
 
 <p align="left">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark"><img src="https://skillicons.dev/icons?i=html&theme=light" title="HTML" alt="HTML" width="40"></picture>
@@ -47,7 +55,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=md&theme=dark"><img src="https://skillicons.dev/icons?i=md&theme=light" title="Markdown" alt="Markdown" width="40"></picture>
 </p>
 
-## ⚙️ Tools
+### ⚙️ Tools
 
 <p align="left">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark"><img src="https://skillicons.dev/icons?i=bash&theme=light" title="Bash" alt="Bash" width="40"></picture>
@@ -80,7 +88,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img title="JWT" alt="JWT" height="26" src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white">
 </p>
 
-## ☁️ Cloud & Databases
+### ☁️ Cloud & Databases
 
 <p align="left">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark"><img src="https://skillicons.dev/icons?i=postgres&theme=light" title="PostgreSQL" alt="PostgreSQL" width="40"></picture>
@@ -93,7 +101,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img title="Cloud Foundry" alt="Cloud Foundry" height="26" src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?logo=cloudfoundry&logoColor=white">
 </p>
 
-## 💻 Operating Systems
+### 💻 Operating Systems
 
 <p align="left">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=apple&theme=dark"><img src="https://skillicons.dev/icons?i=apple&theme=light" title="macOS" alt="macOS" width="40"></picture>
@@ -102,15 +110,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ubuntu&theme=dark"><img src="https://skillicons.dev/icons?i=ubuntu&theme=light" title="Ubuntu" alt="Ubuntu" width="40"></picture>
 </p>
 
-## Socials
-
-<p align="left"> <a href="https://www.github.com/reshinto" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reshinto/iconlibrary/refs/heads/main/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reshinto/iconlibrary/refs/heads/main/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/reshinto/iconlibrary/refs/heads/main/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/terence-kong" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reshinto/iconlibrary/refs/heads/main/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reshinto/iconlibrary/refs/heads/main/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/reshinto/iconlibrary/refs/heads/main/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/reshinto" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/reshinto?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
-
-![Profile views](https://komarev.com/ghpvc/?username=reshinto&label=Profile%20views&style=for-the-badge)
-
 ## My GitHub Stats
+<p align="center">
+  <a href="https://www.github.com/reshinto" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/reshinto?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" />
+  </a>
+  <a href="https://www.github.com/reshinto" target="_blank" rel="noreferrer">
+    <img src="https://komarev.com/ghpvc/?username=reshinto&label=Profile%20views&style=for-the-badge" />
+  </a>
+</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reshinto&layout=compact&langs_count=10&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&custom_title=reshinto's+GitHub+Stats" />
