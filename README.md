@@ -1,24 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <picture>
-<!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:111827,100:1e293b&fontColor=38bdf8&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18">
-    <!-- Fallback (for renderers that don't support <picture>) -->
-    <img alt="Typing animation" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:111827,100:1e293b&fontColor=38bdf8&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18" />
-  </picture>
-</p>
-
-
-
-<p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:111827,100:1e293b&fontColor=38bdf8&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18">
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:f5f7fa,100:c3cfe2&fontColor=0f172a&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18">
-    <!-- Fallback (for renderers that don't support <picture>) -->
-    <img alt="Typing animation" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:111827,100:1e293b&fontColor=38bdf8&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:334155,100:64748b&fontColor=f1f5f9&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18" alt="Universal banner" />
 </p>
 
 <p align="center">
