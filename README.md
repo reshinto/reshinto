@@ -108,7 +108,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.github.com/reshinto" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/reshinto?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
 
-![Profile views](https://komarev.com/ghpvc/?username=reshinto&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=reshinto&label=Profile%20views&style=for-the-badge)
 
 ## My GitHub Stats
 
