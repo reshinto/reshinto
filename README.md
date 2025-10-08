@@ -50,6 +50,10 @@ src="https://img.shields.io/github/followers/reshinto?logo=github&style=for-the-
   <img src="https://streak-stats.demolab.com?user=reshinto&theme=radical&hide_border=true" width="70%"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reshinto/reshinto/output/snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 ## Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/reshinto/online_trading_platform" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reshinto&repo=online_trading_platform&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/reshinto/programming_language_syntax_comparison" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reshinto&repo=programming_language_syntax_comparison&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
