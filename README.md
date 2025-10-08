@@ -1,15 +1,31 @@
+<!-- PROFILE HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1F1C2C,100:928DAB&height=250&section=header&text=Reshinto&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
+
+<p align="center">
+  <!-- Dark mode -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=FFFFFF&center=true&vCenter=true&width=800&lines=Self-taught+Software+Engineer;Everything+that+can+be+automated%2C+must+be+automated;AI+Research+%26+Applied+Automation;TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20AWS%20%E2%80%A2%20Elasticsearch#gh-dark-mode-only" alt="Typing animation dark" />
+
+  <!-- Light mode -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=1F1C2C&center=true&vCenter=true&width=800&lines=Self-taught+Software+Engineer;Everything+that+can+be+automated%2C+must+be+automated;AI+Research+%26+Applied+Automation;TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20AWS%20%E2%80%A2%20Elasticsearch#gh-light-mode-only" alt="Typing animation light" />
+</p>
+
+<p align="center">
+  <b>💻 Self-taught Software Engineer · Automation Fanatic · AI Enthusiast</b><br/>
+  <i>"Everything that can be automated, must be automated."</i>
+</p>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Terence Kong
 =====================================================================================================================================
 
-Software Engineer
------------------
-
-I’m a self-taught Software Engineer, passionate about automation — if it can be automated, it should be. I enjoy researching and developing AI in my free time.
-
-* 🌍  I'm based in Singapore
-* 🖥️  See my portfolio at [My Portfolio](http://www.terencekong.net)
-* 🤝  I'm looking to collaborate on Interesting projects
-* ⚡  Feel free to reach out via LinkedIn
+- 🚀 I’m a **self-taught Software Engineer** passionate about automation, system design, and scalable backend architectures.  
+- 🤖 I **research and develop AI** as a hobby — integrating intelligence into everyday workflows. 
+- 🧩 I believe in building things that **save time, reduce friction, and scale seamlessly**.  
+- 🌍  I'm based in Singapore
+- 🌐 Check out my [**personal website**](https://www.terencekong.net)  
+- 🤝  I'm looking to collaborate on Interesting projects
+- ⚡  Feel free to reach out via LinkedIn
 
 ## Skills
 
@@ -23,18 +39,18 @@ I’m a self-taught Software Engineer, passionate about automation — if it can
 <a href="https://www.github.com/reshinto" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/reshinto?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
 
-## Badges
+## My GitHub Stats
 
-### My GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reshinto&layout=compact&langs_count=10&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&custom_title=reshinto's+GitHub+Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshinto&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-<a href="http://www.github.com/reshinto"><img src="https://github-readme-stats.vercel.app/api?username=reshinto&layout=compact&langs_count=10&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&custom_title=reshinto's+GitHub+Stats" alt="reshinto's GitHub stats" /></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=reshinto&theme=radical&hide_border=true" width="70%"/>
+</p>
 
-
-<a href="http://www.github.com/reshinto"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reshinto&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/reshinto" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshinto&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Top Repositories
+## Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/reshinto/online_trading_platform" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reshinto&repo=online_trading_platform&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/reshinto/programming_language_syntax_comparison" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reshinto&repo=programming_language_syntax_comparison&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
