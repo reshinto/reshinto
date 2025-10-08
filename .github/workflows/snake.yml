@@ -1,12 +1,12 @@
 name: Generate Contribution Snake
 
 on:
-  schedule: [{ cron: "0 0 * * *" }]  # daily
-  workflow_dispatch:
-  push: { branches: ["main"] }
+  workflow_dispatch:          # allow manual "Run workflow"
+  schedule:
+    - cron: "0 0 * * *"       # nightly
 
 permissions:
-  contents: write   # <-- REQUIRED so the action can push the SVG
+  contents: write             # REQUIRED to commit the SVG
 
 jobs:
   build:
@@ -15,19 +15,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Generate SVG only (no GIF), to 'assets/snake.svg'
-      - name: Generate snake SVG
+      - name: Ensure assets/ exists
+        run: mkdir -p assets
+
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: reshinto
-          outputs: |
-            assets/snake.svg
-      - name: Commit & push
+          outputs: assets/snake.svg
+
+      - name: Commit & push SVG
         run: |
-          if ! git diff --quiet; then
-            git config user.email "actions@github.com"
+          if [ -n "$(git status --porcelain)" ]; then
             git config user.name "github-actions[bot]"
-            git add -A
+            git config user.email "actions@github.com"
+            git add assets/snake.svg
             git commit -m "chore: update snake.svg"
             git push
+          else
+            echo "No changes to commit"
           fi
