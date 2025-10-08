@@ -1,0 +1,33 @@
+name: Generate Contribution Snake
+
+on:
+  schedule: [{ cron: "0 0 * * *" }]  # daily
+  workflow_dispatch:
+  push: { branches: ["main"] }
+
+permissions:
+  contents: write   # <-- REQUIRED so the action can push the SVG
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Generate SVG only (no GIF), to 'assets/snake.svg'
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: reshinto
+          outputs: |
+            assets/snake.svg
+      - name: Commit & push
+        run: |
+          if ! git diff --quiet; then
+            git config user.email "actions@github.com"
+            git config user.name "github-actions[bot]"
+            git add -A
+            git commit -m "chore: update snake.svg"
+            git push
+          fi
