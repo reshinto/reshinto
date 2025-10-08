@@ -1,9 +1,20 @@
 <!-- PROFILE HEADER -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:0f172a,100:1f2937&fontColor=ffffff&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:f5f7fa,100:c3cfe2&fontColor=0f172a&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18">
-    <img alt="Reshinto banner" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:f5f7fa,100:c3cfe2&fontColor=0f172a&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18" />
+    <!-- Dark -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:0f172a,100:1f2937&fontColor=ffffff&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18&v=1"
+    />
+    <!-- Light -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:f5f7fa,100:c3cfe2&fontColor=0f172a&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18&v=1"
+    />
+    <img
+      alt="Reshinto banner"
+      src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Reshinto&fontAlignY=40&color=0:f5f7fa,100:c3cfe2&fontColor=0f172a&animation=fadeIn&desc=AI%20Automation%20-%20Applied%20Engineering&descSize=18&v=1"
+    />
   </picture>
 </p>
 
