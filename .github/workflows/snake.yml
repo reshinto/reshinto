@@ -5,13 +5,15 @@ on:
   schedule:
     - cron: "0 0 * * *"   # daily at 00:00 UTC
 
+# Make sure the token can write
 permissions:
-  contents: write          # needed to write to the output branch
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Generate the SVG into dist/
       - name: Generate snake (SVG)
         uses: Platane/snk/svg-only@v3
         with:
@@ -19,12 +21,21 @@ jobs:
           outputs: |
             dist/snake.svg
 
-      - name: Verify file exists (fail fast)
+      # Sanity check: print directory + fail if file missing
+      - name: Verify file exists (fail fast + debug)
         run: |
-          echo "Listing dist/ for debug:"
+          echo "== ls -la dist =="
           ls -la dist || true
           test -f dist/snake.svg || (echo "ERROR: dist/snake.svg not generated" && exit 1)
 
+      # Upload artifact so you can download/confirm it from the run page
+      - name: Upload SVG artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake-svg
+          path: dist/snake.svg
+
+      # Publish to a dedicated branch (avoids main protection)
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
