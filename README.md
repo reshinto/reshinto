@@ -126,7 +126,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=reshinto&theme=radical&hide_border=true" width="70%"/>
+  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=reshinto&theme=radical&hide_border=true" />
 </p>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reshinto&theme=react-dark&hide_border=true)
