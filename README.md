@@ -6,11 +6,11 @@
 <p align="center">
   <picture>
     <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=FFFFFF&center=true&vCenter=true&width=800&lines=Self-taught+Software+Engineer;Everything+that+can+be+automated%2C+must+be+automated;AI+Research+%26+Applied+Automation;TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20Rust%20%E2%80%A2%20AWS%20%E2%80%A2%20Elasticsearch"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=FFFFFF&center=true&vCenter=true&width=800&lines=Self-taught+Software+Engineer;Everything+that+can+be+automated%2C+must+be+automated;AI+Research+%26+Applied+Automation;TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20AWS%20%E2%80%A2%20Elasticsearch"/>
     <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=1F1C2C&center=true&vCenter=true&width=800&lines=Self-taught+Software+Engineer;Everything+that+can+be+automated%2C+must+be+automated;AI+Research+%26+Applied+Automation;TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20Rust%20%E2%80%A2%20AWS%20%E2%80%A2%20Elasticsearch"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=1F1C2C&center=true&vCenter=true&width=800&lines=Self-taught+Software+Engineer;Everything+that+can+be+automated%2C+must+be+automated;AI+Research+%26+Applied+Automation;TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20AWS%20%E2%80%A2%20Elasticsearch"/>
     <!-- Fallback (for renderers that don't support <picture>) -->
-    <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=1F1C2C&center=true&vCenter=true&width=800&lines=Self-taught+Software+Engineer;Everything+that+can+be+automated%2C+must+be+automated;AI+Research+%26+Applied+Automation;TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20Rust%20%E2%80%A2%20AWS%20%E2%80%A2%20Elasticsearch" />
+    <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=1F1C2C&center=true&vCenter=true&width=800&lines=Self-taught+Software+Engineer;Everything+that+can+be+automated%2C+must+be+automated;AI+Research+%26+Applied+Automation;TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20AWS%20%E2%80%A2%20Elasticsearch" />
   </picture>
 </p>
 
