@@ -22,7 +22,6 @@
 <!-- Quick links -->
 <p align="center">
   <a href="https://www.terencekong.net"><img alt="Website" src="https://img.shields.io/badge/website-terencekong.net-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/reshinto"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-reshinto-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/terence-kong"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Terence%20Kong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://ko-fi.com/terencekong28304"><img src="https://img.shields.io/badge/Ko--fi-Support%20My%20Work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi"/></a>
 </p>
@@ -112,24 +111,6 @@
 </p>
 
 ## My GitHub Stats
-<p align="center">
-  <a href="https://www.github.com/reshinto" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/reshinto?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" />
-  </a>
-  <a href="https://www.github.com/reshinto" target="_blank" rel="noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=reshinto&label=Profile%20views&style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reshinto&layout=compact&langs_count=10&theme=dracula&count_private=true&show_icons=true&include_all_commits=true&custom_title=reshinto's+GitHub+Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshinto&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=reshinto&theme=radical&hide_border=true" />
-</p>
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reshinto&theme=react-dark&hide_border=true)
 
 <p align="center">
