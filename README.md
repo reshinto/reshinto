@@ -146,9 +146,9 @@ I'm interested in projects involving:
 If you have an interesting project or idea, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/terence-kong).
 
 ## 📊 GitHub Activity
-<div align="center">
-![Terence's GitHub Stats](./profile/stats.svg)
-</div>
+<p align="center">
+  <img src="./profile/stats.svg" alt="Terence's GitHub Stats" />
+</p>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reshinto&theme=react-dark&hide_border=true)
 
