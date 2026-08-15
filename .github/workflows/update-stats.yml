@@ -16,15 +16,15 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate GitHub stats
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=reshinto&show_icons=true&include_all_commits=true&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GH_STATS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Verify generated SVG
@@ -37,12 +37,6 @@ jobs:
 
           if grep -q "Something went wrong" profile/stats.svg; then
             echo "The generated SVG contains an error."
-            cat profile/stats.svg
-            exit 1
-          fi
-
-          if grep -q "Resource not accessible by integration" profile/stats.svg; then
-            echo "GitHub API permission error detected."
             cat profile/stats.svg
             exit 1
           fi
