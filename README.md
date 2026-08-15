@@ -28,13 +28,37 @@
 
 ## 🧑🏻‍💻 About
 
-- 🚀 I’m a **self-taught Software Engineer** passionate about automation, system design, and scalable backend architectures.  
-- 🤖 I **research and develop AI** as a hobby — integrating intelligence into everyday workflows. 
-- 🧩 I believe in building things that **save time, reduce friction, and scale seamlessly**.  
+I'm a **Software Engineer based in Singapore** with a strong interest in automation, backend engineering, system design, and practical applications of AI.
+- ⚙️ I enjoy building systems that automate repetitive work and reduce operational complexity.
+- 🤖 I explore practical applications of **AI, LLMs and AI-assisted software engineering**.
+- 🏗️ I'm interested in **backend architecture, distributed systems, automation and scalable systems**.
+- 🧩 I like solving problems by simplifying processes rather than adding unnecessary complexity.
 - 🌍  I'm based in ![Timezone](https://img.shields.io/badge/timezone-Asia%2FSingapore-%230089ff?style=flat)
 - 🌐 Check out my [**Personal Website**](https://www.terencekong.net)  
 - 🤝  I'm looking to collaborate on Interesting projects
 - ⚡  Feel free to reach out via [**LinkedIn**](https://www.linkedin.com/in/terence-kong) or [**Leave a message**](https://github.com/reshinto/reshinto/issues/new?title=Guestbook%20entry&labels=guestbook&body=Write%20your%20message%20here%20%E2%9C%8C%EF%B8%8F)
+
+## 🎯 Current Focus
+I'm currently exploring and building around:
+- 🤖 **Large Language Models & AI Engineering**
+- 🧠 **AI-assisted software development**
+- ⚙️ **Workflow and process automation**
+- 🏗️ **Backend and distributed systems**
+- ☁️ **Cloud-native architecture**
+- 🔎 **Search and data-intensive applications**
+
+## 🤖 AI & Automation
+I'm particularly interested in using AI as an **engineering tool rather than simply a chatbot**.
+Areas I'm exploring include:
+- AI-assisted software engineering
+- LLM agents and tool use
+- Developer productivity automation
+- Automated research and analysis
+- Workflow orchestration
+- AI-assisted testing and code review
+- Retrieval-augmented generation
+- Structured prompting and context engineering
+- Human-in-the-loop automation
 
 ## 🧰 Tech Stack
 
@@ -110,9 +134,28 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ubuntu&theme=dark"/><img src="https://skillicons.dev/icons?i=ubuntu&theme=light" title="Ubuntu" alt="Ubuntu" width="40"/></picture>
 </p>
 
-## My GitHub Stats
+## 🤝 Collaboration
+I'm interested in projects involving:
+- AI and LLM applications
+- Developer tools
+- Automation
+- Backend systems
+- Distributed systems
+- Cloud infrastructure
+- Productivity tooling
+If you have an interesting project or idea, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/terence-kong).
+
+## 📊 GitHub Activity
+<div align="center">
+![Terence's GitHub Stats](./profile/stats.svg)
+</div>
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reshinto&theme=react-dark&hide_border=true)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/reshinto/reshinto/output/snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
+## [☕ Support me on Ko-fi](https://ko-fi.com/terencekong28304)
+If you find my projects, research, experiments or open-source work useful, you can support my work on Ko-fi.
+Support is completely optional, but always appreciated.
