@@ -28,39 +28,25 @@
 
 ## 🧑🏻‍💻 About
 
-I'm a **Software Engineer based in Singapore** with a strong interest in automation, backend engineering, system design, and practical applications of AI.
-- ⚙️ I enjoy building systems that automate repetitive work and reduce operational complexity.
-- 🤖 I explore practical applications of **AI, LLMs and AI-assisted software engineering**.
-- 🏗️ I'm interested in **backend architecture, distributed systems, automation and scalable systems**.
-- 🧩 I like solving problems by simplifying processes rather than adding unnecessary complexity.
+I'm a **Software Engineer based in Singapore** focused on automation, backend systems, system design and practical applications of AI.
+
+- ⚙️ I enjoy building systems that reduce repetitive work and operational complexity.
+- 🧩 I prefer solving problems through simple, scalable designs rather than unnecessary complexity.
+- 🤝 I'm open to collaborating on interesting engineering and AI projects.
 - 🌍  I'm based in ![Timezone](https://img.shields.io/badge/timezone-Asia%2FSingapore-%230089ff?style=flat)
 - 🌐 Check out my [**Personal Website**](https://www.terencekong.net)  
 - 🤝  I'm looking to collaborate on Interesting projects
 - ⚡  Feel free to reach out via [**LinkedIn**](https://www.linkedin.com/in/terence-kong) or [**Leave a message**](https://github.com/reshinto/reshinto/issues/new?title=Guestbook%20entry&labels=guestbook&body=Write%20your%20message%20here%20%E2%9C%8C%EF%B8%8F)
 
 ## 🎯 Current Focus
+
 I'm currently exploring and building around:
-- 🤖 **Large Language Models & AI Engineering**
-- 🧠 **AI-assisted software development**
-- ⚙️ **Workflow and process automation**
-- 🏗️ **Backend and distributed systems**
-- ☁️ **Cloud-native architecture**
-- 🔎 **Search and data-intensive applications**
+- 🤖 **AI & LLM Engineering** — agents, tool use, RAG, structured prompting and AI-assisted development
+- ⚙️ **Automation** — developer productivity, workflow orchestration and automated research
+- 🏗️ **Backend & Distributed Systems** — scalable services, system design and cloud-native architecture
+- 🔎 **Search & Data Systems** — Elasticsearch and data-intensive applications
 
-## 🤖 AI & Automation
-I'm particularly interested in using AI as an **engineering tool rather than simply a chatbot**.
-Areas I'm exploring include:
-- AI-assisted software engineering
-- LLM agents and tool use
-- Developer productivity automation
-- Automated research and analysis
-- Workflow orchestration
-- AI-assisted testing and code review
-- Retrieval-augmented generation
-- Structured prompting and context engineering
-- Human-in-the-loop automation
-
-## 🧰 Tech Stack
+## 🛠️ Technologies
 
 ### 🧠 Languages
 
@@ -135,17 +121,12 @@ Areas I'm exploring include:
 </p>
 
 ## 🤝 Collaboration
-I'm interested in projects involving:
-- AI and LLM applications
-- Developer tools
-- Automation
-- Backend systems
-- Distributed systems
-- Cloud infrastructure
-- Productivity tooling
-If you have an interesting project or idea, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/terence-kong).
+
+I'm open to collaborating on interesting projects involving **AI, automation, developer tooling and backend systems**.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/terence-kong).
 
 ## 📊 GitHub Activity
+
 <p align="center">
   <img src="./profile/stats.svg" alt="Terence's GitHub Stats" />
 </p>
