@@ -24,6 +24,7 @@
   <a href="https://www.terencekong.net"><img alt="Website" src="https://img.shields.io/badge/website-terencekong.net-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/reshinto"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-reshinto-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/terence-kong"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Terence%20Kong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://ko-fi.com/terencekong28304"><img src="https://img.shields.io/badge/Ko--fi-Support%20My%20Work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi"/></a>
 </p>
 
 ## 🧑🏻‍💻 About
